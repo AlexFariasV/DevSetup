@@ -1,12 +1,14 @@
 {
   "editor.wordWrap": "on",
   "files.autoSave": "afterDelay",
+
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
+  "explorer.compactFolders": false,
 
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "none",
-  "workbench.tree.indent": 20,
+  "workbench.tree.indent": 23,
   "workbench.colorTheme": "Min Dark",
 
   "editor.fontFamily": "Fira Code",
@@ -14,6 +16,7 @@
 
   "git.confirmSync": false,
   "git.enableSmartCommit": true,
+  "git.autofetch": true,
 
   "chatgpt.lang": "pt-br",
 
