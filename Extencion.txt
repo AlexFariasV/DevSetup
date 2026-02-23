@@ -1,53 +1,34 @@
-### My 20 extencion fav
+### ⭐ Minhas 20 extensões favoritas do VS Code (DevSetup)
 
-1 -> Auto Rename Tag 
+1. Auto Rename Tag  
+2. Better Comments  
+3. Code Runner  
+4. Color Highlighting  
+5. DotENV  
+6. EJS Language Support  
+7. Error Lens  
+8. EditorConfig for VS Code  
+9. ESLint  
+10. GitLens — Git supercharged  
+11. Indent-Rainbow  
+12. JavaScript Booster  
+13. IntelliSense for CSS class names in HTML  
+14. Live Server  
+15. Material Icon Theme / VSCode Icons  
+16. Portuguese (Brazil) Language Pack  
+17. Prettier SQL  
+18. Prisma  
+19. Tabnine — AI Autocomplete  
+20. Codeium — AI Coding Assistant  
 
-2 -> Better Comments 
+---
 
-3 -> code Runner 
+### ⚙️ Configuração obrigatória
 
-4 -> color highlighting
+// ------------- DEVSETUP -------------
+"workbench.tree.indent": 20,  
+"explorer.compactFolders": false  
+//-----------------------------------
 
-5 -> DoENV 
-
-6 -> EJS Language support
-
-7 -> Error Lens 
-
-8 -> EditorConfig for VS Code
-
-9 -> ESlint 
-
-10 -> GitLens — Git supercharged
-
-11 -> indent-rainbow
-
-12 -> JavaScript Booster
-
-13 -> IntelliSense for CSS class names in HTML
-
-14 -> Live Server
-
-15 -> Material Icon Theme or vscode-icons (ambos para icons) 
-
-16 -> Portuguese (Brazil) Language Pack for Visual Studio Code
-
-17 -> Prettier SQL VSCode
-
-18 -> Prisma
-
-19 -> Tabnine: AI Chat & Autocomplete for JavaScript, Python, Typescript, J
-
-20 -> Codeium: AI Coding Autocomplete and Chat for Python, Javascript, Typescript, Java, Go, and more
-
-
-### Json obrigatório 
-
-// -------------OBGT_ENTX -------------
-
-    "workbench.tree.indent": 20,
-    "explorer.compactFolders":false,
-
-//-------------------------------------
-
-config -> word -> Editor: Word wrap (padão:off) md to (on)
+Configuração adicional:
+Editor → Word Wrap → ON (padrão é OFF)
