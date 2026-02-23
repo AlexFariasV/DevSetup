@@ -1,34 +1,46 @@
 {
-    "editor.wordWrap": "on",
-    "files.autoSave": "afterDelay",
-    "explorer.confirmDelete": false,
-    "tabnine.experimentalAutoImports": true,
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.startupEditor": "none",
-    "workbench.tree.indent": 20,
-    "chatgpt.lang": "pt-br",
-    "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true,
-    "liveServer.settings.donotShowInfoMsg": true,
-    "git.confirmSync": false,
-    "git.enableSmartCommit": true,
-    "explorer.confirmDragAndDrop": false,
-    "compile-hero.sass-output-directory": "././css",
-    "compile-hero.scss-output-directory": "././css",
-    "compile-hero.generate-minified-css": true,
-    "settingsSync.ignoredExtensions": [
-        "ms-ceintl.vscode-language-pack-pt-br"
-    ],
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": "explicit"
-    },
-    "[prisma]": {
-        "editor.formatOnSave": true
-    },
-    "workbench.colorTheme": "Min Dark",
-    "security.workspace.trust.untrustedFiles": "newWindow",
-    "terminal.integrated.fontFamily": "monospace",
-    "[css]": {
-        "editor.defaultFormatter": "vscode.css-language-features"
-    }
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "none",
+  "workbench.tree.indent": 20,
+  "workbench.colorTheme": "Min Dark",
+
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+
+  "chatgpt.lang": "pt-br",
+
+  "liveServer.settings.donotShowInfoMsg": true,
+
+  "compile-hero.sass-output-directory": "./css",
+  "compile-hero.scss-output-directory": "./css",
+  "compile-hero.generate-minified-css": true,
+
+  "settingsSync.ignoredExtensions": [
+    "ms-ceintl.vscode-language-pack-pt-br"
+  ],
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+
+  "[prisma]": {
+    "editor.formatOnSave": true
+  },
+
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "terminal.integrated.fontFamily": "monospace",
+
+  "tabnine.experimentalAutoImports": true
 }
